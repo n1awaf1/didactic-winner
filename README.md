@@ -1,2 +1,2 @@
 # didactic-winner
-https://ask.fm/n1awaf1
+https://ask.fm/n1awaf
