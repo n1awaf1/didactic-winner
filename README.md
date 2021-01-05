@@ -1,2 +1,0 @@
-# didactic-winner
-https
